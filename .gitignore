@@ -1,0 +1,5 @@
+/*.csv
+/price_TI_data/*
+/news_data*/
+/MHFinSum/trained_models/*
+/MHFinSum/news_embedding*.npy
